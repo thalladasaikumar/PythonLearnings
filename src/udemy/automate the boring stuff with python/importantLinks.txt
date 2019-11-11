@@ -1,0 +1,5 @@
+book url: https://automatetheboringstuff.com/
+
+comic url: http://xkcd.com
+
+Beautiful Soup : http://www.crummy.com/software/BeautifulSoup/bs4/doc/
